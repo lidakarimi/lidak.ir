@@ -14,11 +14,11 @@ website: lidak.ir
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/2019-09-15 13.44.40.jpg
 about_content: | # this will include new lines to allow paragraphs
-I am an energetic, innovative teacher that has experience in
+<p>I am an energetic, innovative teacher that has experience in
 transfer the key point of the information and developing training strategies and building strong teams from a diverse group of people. While being trained by international teacher educators,
- I am currently digging deeper into teacher training programs and trying to use modern technology to make dymanic classes and updated lesson plans.
+I am currently digging deeper into teacher training programs and trying to use modern technology to make dymanic classes and updated lesson plans.<p>
 
 # Projects Section
 # projects_title: Projects
@@ -41,8 +41,6 @@ more_content: | # this will include new lines to allow paragraphs
 # Footer
 footer_show_references: true
 
-# Build settings
-remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
