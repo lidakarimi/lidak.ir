@@ -5,7 +5,7 @@ repository: sproogen/resume-theme
 # Personal info
 name: Lida Karimi
 title: CertTESOL, Certified IELTS Trainer & TESOL/ EFL Specialist
-email: karimi86lida@gmail.com
+email: karimileda@gmail.com
 website: www.lidak.ir
 
 # Social links
@@ -36,6 +36,11 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Education Section
 # educaton_title: Education
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in Teaching and IELTS some of my other interests and hobbies are:
+  - Yoga
+  - Meditation
+  - cycling 
 
 # More Section
 # more_title: A Little More About Me
